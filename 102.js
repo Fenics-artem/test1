@@ -1,0 +1,1 @@
+(window.webpackJsonpwp5_starter_react=window.webpackJsonpwp5_starter_react||[]).push([[102],{102:(e,t,r)=>{"use strict";r.r(t),r.d(t,{default:()=>o});var n=r(104),a=r.n(n);const o=function(){return a().createElement("div",{style:{padding:"1em",margin:"1em",background:"green",color:"white",fontWeight:"bold"}},"Header 1.0")}}}]);
